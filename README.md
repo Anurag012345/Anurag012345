@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactJs, NodeJs, MongoDB**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Reinforcement Learning**
 
 - 💬 Ask me about **Java, React, MongoDB**
 
