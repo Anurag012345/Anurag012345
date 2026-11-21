@@ -13,6 +13,18 @@
   <img src="https://komarev.com/ghpvc/?username=anurag012345&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## 👤 About me
+
+Full-stack developer who builds AI products end to end: a Python/FastAPI backend, a Next.js/React front end, and PostgreSQL underneath. My strongest work is **Groundwork**, a self-hosted RAG chatbot platform where I own the whole path from document ingestion and hybrid retrieval to tenant isolation, a dashboard, and an embeddable website widget.
+
+What I bring:
+- **I measure what I build.** I evaluate LLM features against a golden set and gate changes in CI instead of judging them by feel.
+- **Security and isolation by default.** Hashed API keys, per-tenant row-level security, and a guard that refuses unsafe database roles.
+- **Shipping across the stack.** JavaScript, TypeScript, Python and Java, with React, Next.js, Node.js, MongoDB and MySQL behind them.
+- **Learning in public.** 20 public repos since 2022, now focused on LLM applications, retrieval quality, and machine learning.
+
+**Open to opportunities** in full-stack and AI/LLM engineering. The fastest way to reach me is the email or LinkedIn link below.
+
 ## 🔭 What I'm working on
 
 I'm building **[Groundwork](https://github.com/Anurag012345/Groundwork)**, a multi-tenant RAG service with an embeddable website chatbot, delivered as a Docker Compose install on a client's own server.
@@ -28,6 +40,7 @@ I'm building **[Groundwork](https://github.com/Anurag012345/Groundwork)**, a mul
 | [**Groundwork**](https://github.com/Anurag012345/Groundwork) | Self-hosted multi-tenant RAG service and embeddable chatbot widget | Python, Next.js, PostgreSQL |
 | [**chatAI**](https://github.com/Anurag012345/chatAI) | "Write Chat": chat app with LLM responses, voice input, dark mode | TypeScript |
 | [**retail_website_agent**](https://github.com/Anurag012345/retail_website_agent) | CLI for product research: search, extract, and compare products on retail sites via Tavily | Python |
+| [**api-sentinel**](https://github.com/Anurag012345/api-sentinel) | API monitoring dashboard (Next.js 16, React 19, Tailwind CSS 4) | TypeScript, JavaScript |
 
 ## 🛠️ Tech I use
 
