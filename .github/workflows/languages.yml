@@ -1,0 +1,28 @@
+name: Update language chart
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily
+  workflow_dispatch:         # Actions tab -> Run workflow
+  push:
+    paths: ["scripts/gen_languages.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/gen_languages.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if the chart changed
+        run: |
+          git diff --quiet assets/languages.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg
+          git commit -m "Update language chart"
+          git push
