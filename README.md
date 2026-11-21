@@ -54,17 +54,11 @@ Machine learning and reinforcement learning, plus evaluation methods for LLM app
 
 ## 📊 By the numbers
 
-Counted from the code in my 8 public repos (about 625 KB, as of Nov 2026). It measures how much code each language has, not skill or time spent. No notebooks are in it; none of my current repos use Jupyter.
+<p align="center">
+  <img src="assets/languages.svg" alt="Donut and bar chart of language share across my public repos: JavaScript 37%, Python 32%, TypeScript 19%, CSS 10%, other 1%" width="760" />
+</p>
 
-| Language | Share of code | Repos | Where I use it |
-|---|---|---|---|
-| JavaScript | 37% | 5 | Express APIs in [api-sentinel](https://github.com/Anurag012345/api-sentinel), React app in [Styles-n-Smiles](https://github.com/Anurag012345/Styles-n-Smiles) |
-| Python | 32% | 3 | [Groundwork](https://github.com/Anurag012345/Groundwork) backend and evals, [retail_website_agent](https://github.com/Anurag012345/retail_website_agent), [Tic-tac-toe](https://github.com/Anurag012345/Tic-tac-toe) |
-| TypeScript | 19% | 4 | Groundwork dashboard, [chatAI](https://github.com/Anurag012345/chatAI), api-sentinel front end |
-| CSS | 10% | 4 | Front ends |
-| Other | 1% | 5 | HTML, Dockerfile, Shell |
-
-[Groundwork](https://github.com/Anurag012345/Groundwork) is my newest and largest project (about 180 KB), and it is Python first.
+<sub>Measured by code size in each repo, not skill or time spent. No notebooks are counted; none of my current repos use Jupyter.</sub>
 
 ## 📫 Connect
 
