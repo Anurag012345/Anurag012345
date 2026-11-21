@@ -62,7 +62,7 @@ Counted from the code in my 8 public repos (about 625 KB, as of Nov 2026). It me
 | Python | 32% | 3 | [Groundwork](https://github.com/Anurag012345/Groundwork) backend and evals, [retail_website_agent](https://github.com/Anurag012345/retail_website_agent), [Tic-tac-toe](https://github.com/Anurag012345/Tic-tac-toe) |
 | TypeScript | 19% | 4 | Groundwork dashboard, [chatAI](https://github.com/Anurag012345/chatAI), api-sentinel front end |
 | CSS | 10% | 4 | Front ends |
-| Other | 1% | 4 | HTML, Dockerfile, Shell |
+| Other | 1% | 5 | HTML, Dockerfile, Shell |
 
 [Groundwork](https://github.com/Anurag012345/Groundwork) is my newest and largest project (about 180 KB), and it is Python first.
 
