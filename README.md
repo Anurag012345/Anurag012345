@@ -20,7 +20,7 @@ Full-stack developer who builds AI products end to end: a Python/FastAPI backend
 What I bring:
 - **I measure what I build.** I evaluate LLM features against a golden set and gate changes in CI instead of judging them by feel.
 - **Security and isolation by default.** Hashed API keys, per-tenant row-level security, and a guard that refuses unsafe database roles.
-- **Shipping across the stack.** JavaScript, TypeScript, Python and Java, with React, Next.js, Node.js, MongoDB and MySQL behind them.
+- **Shipping across the stack.** JavaScript, TypeScript and Python, with React, Next.js, Node.js, Express, FastAPI, PostgreSQL and MongoDB behind them.
 - **Learning in public.** Public projects since 2022, now focused on LLM applications, retrieval quality, and machine learning.
 
 **Open to opportunities** in full-stack and AI/LLM engineering. The fastest way to reach me is the email or LinkedIn link below.
@@ -45,7 +45,7 @@ I'm building **[Groundwork](https://github.com/Anurag012345/Groundwork)**, a mul
 ## 🛠️ Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,react,nextjs,nodejs,express,fastapi,postgres,mongodb,mysql,docker,git,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,git,linux" alt="Tech stack" />
 </p>
 
 ## 🌱 Currently learning
@@ -75,4 +75,4 @@ Counted from the code in my 8 public repos (about 625 KB, as of Nov 2026). It me
   <a href="mailto:Rawatanurag362@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-💬 Ask me about **RAG, Python, React, Java, MongoDB**.
+💬 Ask me about **RAG, Python, React, MongoDB**.
